@@ -41,7 +41,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Not looking at my computer screen and not fiddling with anything helped me listen to Mr. Keen helped me concentrate on his explanation of learner we are.</td>
+    <td>Not looking at my computer screen and not fiddling with anything helped me listen to Mr. Keen and helped me concentrate on his explanation of what type of learner we are.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will improve my website blog and take more care in what I what I write in my description. I am also going to keep reading and checking my work so that I know that it is perfect.</td>
+    <td>Next time I will improve my website blog and take more care in what I write in my description. I am also going to keep reading and checking my work so that I know that it is perfect.</td>
   </tr>
 </table>
 
