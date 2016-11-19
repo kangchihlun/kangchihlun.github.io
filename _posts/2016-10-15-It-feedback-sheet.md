@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>IT feedback sheet.</td>
+    <td>I.T. lesson blog</td>
     <td>Date</td>
-    <td>15/10/16
+    <td>18/10/16
 </td>
   </tr>
 </table>
@@ -20,16 +20,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Basic Github account. Edited Config.yml</td>
+    <td>A working website and two lesson blog posts.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>To adjust our Config.yml code.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>No, I did not fully start programming my website, but me and Mr Keen are going to sort it out together.</td>
+    <td>I didn't find the source of the problem in my code but I will sort it out on monday.</td>
   </tr>
 </table>
 
@@ -42,19 +42,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I learnt by recognising the problem and plowing on through. I found breathing deeply and smiling an effective way to calm down.</td>
+    <td>I learned by doing and when I doubted myself I took a deep breath and carried on looking for the problem.</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>My fear of getting things wrong was a limit to my I.T. time. I need to stop getting upset and I need to stop saying UM in front of every sentence.</td>
+    <td>I need to stop relying on Mr. Keen so much and start relying on myself and I need to stop putting my hand up all the time and look for a solution myself or ask a friend for help.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time I will use Mr. Keen's strategies for calming down. Next time I’m going to tell myself that I can do it and ask if I need help. </td>
+    <td>Next time I will take a small break and try to find a better mind set because I wasn't in a good place at the time.</td>
   </tr>
 </table>
 
