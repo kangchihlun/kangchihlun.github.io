@@ -2,7 +2,7 @@
 title: It feedback sheet
 layout: post
 author: robin.lawrence
-permalink: /it-feedback-sheet/
+permalink: /it-lesson-blog/
 source-id: 1WYryWTLLlNhnLO-C4DVX1G6EZT-2zbo93_gRY7qVLtc
 published: true
 ---
