@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Robin
+name: Chih Lun Kang
 
 # Short bio or description (displayed in the header)
-description: 13 year old student.
+description: Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://lh3.googleusercontent.com/-yNJyVasn2Xs/V9Us4vx2K1I/AAAAAAAAAA0/sT3uYuwd4y4BAo3nwuShns0Tgx4vgRwSQCEw/w140-h140-p/2016-04-28%2B23.23.47.jpg
+avatar: https://avatars3.githubusercontent.com/u/9709953?s=400&u=7828bb29a1f5bdd895ff789443c56ef4ae960a0a&v=4
 
 #
 # Flags below are optional
@@ -19,14 +19,14 @@ avatar: https://lh3.googleusercontent.com/-yNJyVasn2Xs/V9Us4vx2K1I/AAAAAAAAAA0/s
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook:https://www.facebook.com/chihlun.kang
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/kangchihlun
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: scourglass
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
